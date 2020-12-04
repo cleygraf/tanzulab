@@ -1,6 +1,11 @@
 # tanzulab
 
 See [vSphere with Tanzu Quick Start Guide V1a](https://core.vmware.com/resource/vsphere-tanzu-quick-start-guide-v1a#_Toc53677546)
+See [Deploy HA-Proxy for vSphere with Tanzu](https://cormachogan.com/2020/09/25/deploy-ha-proxy-for-vsphere-with-tanzu/)
+
+## Getting started
+
+Please adjust the sections "Management network" and "Workload network" according your setup.
 
 ## Setup
 
